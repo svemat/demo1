@@ -1,0 +1,7 @@
+# password
+*~
+Thumbs.db
+
+# large/disallowed file types
+*.exe
+*.jpg
